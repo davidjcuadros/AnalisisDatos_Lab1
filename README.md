@@ -1,6 +1,16 @@
 # Laboratorio 1 — Análisis de Datos
 
 ---
+### 1. Entrar a la carpeta del proyecto
+
+```bash
+cd .\lab01_practice\
+```
+### 2. Levantar contenedor Podman
+```bash
+podman compose up -d
+```
+---
 
 ## Modelo Entidad Relación Sakila
 
