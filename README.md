@@ -10,6 +10,10 @@ cd .\lab01_practice\
 ```bash
 podman compose up -d
 ```
+### 3. Ingresar a:
+```bash
+http://localhost:8000/
+```
 ---
 
 ## Modelo Entidad Relación Sakila
